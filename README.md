@@ -1,16 +1,11 @@
-<<<<<<< HEAD
 # CodeAlpha Task 1 - Age Calculator
-=======
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Task description:
+Create a web-based Age Calculator using JavaScript to calculate users' ages based on their submitted date of birth, month, and year JavaScript's built-in date and time functions simplify the age calculation process, making it easy to determine someone's age.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> 699ec49da5c7ced94287737dc7af1741a9c7bf5e
+## GIF
+<div>
+    <a href="https://www.loom.com/share/1c77f675293144ceb70961b6f7e85581">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/1c77f675293144ceb70961b6f7e85581-5de00d3c6b2667d6-full-play.gif">
+    </a>
+  </div>
